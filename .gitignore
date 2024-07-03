@@ -1,0 +1,7 @@
+checkpoint
+data
+model_hub
+wandb
+*.log
+.ipynb_checkpoints
+__pycache__
